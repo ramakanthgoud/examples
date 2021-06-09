@@ -1,0 +1,6 @@
+function testConst(){
+  const sal:number = 20000;
+  sal = 30000;
+  console.log(sal)
+}
+testConst()
